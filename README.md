@@ -8,20 +8,24 @@ I'm a Full Stack Developer with experience building enterprise web applications,
 
 ## 💼 Experience
 
-### Full Stack Developer Intern
-**BPS Provinsi Riau**
+### BPS Provinsi Riau
+**Full Stack Developer**
 
-- Developed **KERIS (Kelola Risiko)**, a Risk Management Information System.
+*December 2025 – June 2026*
+
+- Developed **KERIS (Kelola Risiko)**, a web-based Risk Management Information System.
 - Designed and implemented the PostgreSQL database.
 - Built frontend and backend features using CodeIgniter 4.
-- Completed the project and officially handed it over to BPS Provinsi Riau.
+- Successfully completed the project and officially handed it over to BPS Provinsi Riau.
 
-### Full Stack Developer Intern
-**PT Bigs Integrasi Teknologi**
+### PT Bigs Integrasi Teknologi
+**Full Stack Developer**
 
-- Developed the ERP BIGS Core Sales Module.
+*September 2024 – August 2025*
+
+- Developed the **ERP BIGS Core Sales Module**.
 - Built business features using Yii2 and PostgreSQL.
-- Worked within a Scrum-based development environment.
+- Collaborated within a Scrum-based development environment.
 
 ---
 
@@ -33,10 +37,10 @@ Risk Management Information System for BPS Provinsi Riau.
 
 **Tech Stack**
 
-`CodeIgniter 4` • `PostgreSQL` • `Bootstrap` • `JavaScript`
+`PHP` • `CodeIgniter 4` • `PostgreSQL` • `Bootstrap` • `JavaScript`
 
 Repository:
-https://github.com/thanias92/keris
+- https://github.com/thanias92/keris
 
 ---
 
@@ -46,57 +50,23 @@ Enterprise Resource Planning (ERP) Sales Module.
 
 **Tech Stack**
 
-`Yii2` • `PostgreSQL`
+`PHP` • `Yii2` • `PostgreSQL`
 
 Repository:
-https://github.com/thanias92/bigscore
+- https://github.com/thanias92/bigscore
 
 ---
 
 ### 📌 Personal Portfolio
 
-A modern portfolio website built with React, Vite, Tailwind CSS, and Framer Motion.
+Personal portfolio website built with React, Vite, Tailwind CSS, and Framer Motion.
 
 **Tech Stack**
 
-`React` • `Vite` • `Tailwind CSS`
+`React` • `Vite` • `Tailwind CSS` • `Framer Motion`
 
 Repository:
-https://github.com/thanias92/portfolio
-
----
-
-## 💻 Tech Stack
-
-### Backend
-
-- PHP
-- CodeIgniter 4
-- Yii2
-- Laravel
-
-### Frontend
-
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Tailwind CSS
-- React
-
-### Database
-
-- PostgreSQL
-- MySQL
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- DBeaver
-- Figma
-- Postman
+- https://github.com/thanias92/portfolio
 
 ---
 
@@ -105,13 +75,18 @@ https://github.com/thanias92/portfolio
 <p>
   <img src="https://skillicons.dev/icons?i=php,react,tailwind,bootstrap,js,postgres,mysql,git,github,vscode,figma,postman" />
 </p>
+
+**Other Technologies**
+
+CodeIgniter 4 • Yii2 • HTML • CSS • REST API • Scrum • DBeaver
+
 ---
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/bethania-simangunsong
 - 📧 Email: thaniasimangunsong92@gmail.com
-- 🌐 Portfolio: *(Coming Soon)*
+- 🌐 Portfolio: *In Development*
 
 ---
 

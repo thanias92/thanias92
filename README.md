@@ -48,6 +48,9 @@ Enterprise Resource Planning (ERP) Sales Module.
 
 `Yii2` • `PostgreSQL`
 
+Repository:
+https://github.com/thanias92/bigscore
+
 ---
 
 ### 📌 Personal Portfolio

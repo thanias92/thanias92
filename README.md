@@ -102,10 +102,9 @@ https://github.com/thanias92/portfolio
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thanias92&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanias92&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![Bethania's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanias92&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanias92&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 

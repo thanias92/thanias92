@@ -111,10 +111,10 @@ https://github.com/thanias92/portfolio
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn URL)*
-- 📧 Email: *(add your email)*
+- 💼 LinkedIn: https://www.linkedin.com/in/bethania-simangunsong
+- 📧 Email: thaniasimangunsong92@gmail.com
 - 🌐 Portfolio: *(Coming Soon)*
 
 ---
 
-Thanks for visiting my profile! 👋
+Thanks for visiting my profile! 🌱

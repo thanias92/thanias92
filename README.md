@@ -100,12 +100,11 @@ https://github.com/thanias92/portfolio
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Tech Stack
 
-![Bethania's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanias92&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanias92&layout=compact&theme=github_dark&hide_border=true)
-
+<p>
+  <img src="https://skillicons.dev/icons?i=php,react,tailwind,bootstrap,js,postgres,mysql,git,github,vscode,figma,postman" />
+</p>
 ---
 
 ## 📫 Connect With Me
